@@ -12,6 +12,8 @@ To run the analysis, you need the following Python libraries:
 - numpy
 - matplotlib
 - seaborn
+- Plotly
+- Codecs
 
 
 ## Analysis
